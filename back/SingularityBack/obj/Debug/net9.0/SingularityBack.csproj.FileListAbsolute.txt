@@ -1,0 +1,15 @@
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/bin/Debug/net9.0/SingularityBack
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/bin/Debug/net9.0/SingularityBack.deps.json
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/bin/Debug/net9.0/SingularityBack.runtimeconfig.json
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/bin/Debug/net9.0/SingularityBack.dll
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/bin/Debug/net9.0/SingularityBack.pdb
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.GeneratedMSBuildEditorConfig.editorconfig
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.AssemblyInfoInputs.cache
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.AssemblyInfo.cs
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.csproj.CoreCompileInputs.cache
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.sourcelink.json
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.dll
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/refint/SingularityBack.dll
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.pdb
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/SingularityBack.genruntimeconfig.cache
+/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/Debug/net9.0/ref/SingularityBack.dll
