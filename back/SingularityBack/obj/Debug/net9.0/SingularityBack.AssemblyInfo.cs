@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingularityBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7330bcc5bcbb2021d3b6e1c8091956a3f5453c82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e84bd2245517c71670b5acee65c3daaa3c1623")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingularityBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingularityBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj": {}
+    "/media/pedro/Novo volume/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj": {}
   },
   "projects": {
-    "/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj": {
+    "/media/pedro/Novo volume/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj",
+        "projectUniqueName": "/media/pedro/Novo volume/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj",
         "projectName": "SingularityBack",
-        "projectPath": "/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj",
+        "projectPath": "/media/pedro/Novo volume/github/SingularityAPP/back/SingularityBack/SingularityBack.csproj",
         "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/media/pedro/Novo volume1/github/SingularityAPP/back/SingularityBack/obj/",
+        "outputPath": "/media/pedro/Novo volume/github/SingularityAPP/back/SingularityBack/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pedro/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "SocketIoClientDotNet": {
+              "target": "Package",
+              "version": "[1.0.2-beta1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
